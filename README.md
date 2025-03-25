@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francis Tate
 
-Data Scientist and AI Engineer | AI/ML/DL | Quant | AWS Cloud
+### I am a Data Scientist and AI Engineer ( AI/ML/DL | Quant | AWS Cloud )
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -19,7 +19,6 @@ I'm a Data Scientist and AI Engineer with a passion for leveraging AI/ML/DL and 
 - 🎓 Recently completed MSc in Electrical & Computer Engineering (AI/ML, Software Eng) at Carnegie Mellon University Africa
 - 📚 Pursuing MSc in Financial Engineering, building knowledge and skills in quantitative finance
 - 📄 [View my full resume](https://francistate.github.io)
-- 📍 Based in Kigali, Rwanda
 
 ## 🧠 Skills & Technologies
 
