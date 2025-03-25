@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Francis
+# 👋 Hi, I'm Francis Tate
 
 Data Scientist and AI Engineer | AI/ML/DL | Quant | AWS Cloud
 
@@ -115,11 +115,10 @@ I'm a Data Scientist and AI Engineer with a passion for leveraging AI/ML/DL and 
 
 ## 👥 Looking to Collaborate On
 
-I'm open to collaborations, internships, and job opportunities in:
+I'm open to collaborations and opportunities in:
 - AI/ML Engineering
 - Data Science Projects
 - Quantitative Analysis and Research
-- Projects in Healthcare, Education, or Finance sectors
 
 ## 📫 How to Reach Me
 
@@ -138,6 +137,3 @@ I'm open to collaborations, internships, and job opportunities in:
 ### 💡 Problem-Solving & Continuous Learning
 
 I enjoy tackling complex problems and am always seeking opportunities to apply AI and data science to meaningful, real-world challenges. My journey includes transitioning from electrical engineering to AI/ML and now expanding into quantitative finance.
-
-### 🔄 My Github Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francistate&theme=dark)
