@@ -133,6 +133,17 @@ I'm open to collaborations and opportunities in:
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francistate&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francistate&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=francistate&theme=radical" />
+</div>
+
+---
+
 ### 💡 Problem-Solving & Continuous Learning
 
 I enjoy tackling complex problems and am always seeking opportunities to apply AI and data science to meaningful, real-world challenges. My journey includes transitioning from electrical engineering to AI/ML and now expanding into quantitative finance.
