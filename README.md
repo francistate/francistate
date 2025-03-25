@@ -5,10 +5,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </div>
 
 ## 🚀 About Me
@@ -18,7 +19,7 @@ I'm a Data Scientist and AI Engineer with a passion for leveraging AI/ML/DL and 
 - 🔭 Currently working on AI-driven mental health applications, exploring predictive modeling and AI conversational therapy
 - 🎓 Recently completed MSc in Electrical & Computer Engineering (AI/ML, Software Eng) at Carnegie Mellon University Africa
 - 📚 Pursuing MSc in Financial Engineering, building knowledge and skills in quantitative finance
-- 📄 [View my full resume](https://francistate.github.io)
+- 📄 [View my full resume](https://drive.google.com/file/d/1Slbceej5ZpCSReY-6ojEViA_vGH6Xrpn/view?usp=drive_link)
 
 ## 🧠 Skills & Technologies
 
@@ -70,22 +71,6 @@ I'm a Data Scientist and AI Engineer with a passion for leveraging AI/ML/DL and 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
 </p>
 
-## 📊 Projects
-
-### Medical Scan Cross-Modality Translation (GAN)
-- Developed a GAN-based system for translating between different medical imaging modalities
-- Achieved PSNR of 26.5dB and SSIM of 82.1% using custom loss functions
-
-### Sign Language Recognition and Translation System
-- Collaboratively built a computer vision system for automated sign language recognition
-- Integrated Claude AI API to convert sign predictions into natural language translations
-
-### ML-Based Customer Classification System
-- Engineered customer segmentation using unsupervised and supervised learning
-- Achieved 92% classification accuracy through feature engineering and model tuning
-
-### More projects on my [portfolio website](https://francistate.github.io)
-
 ## 🎓 Education
 
 - **Carnegie Mellon University Africa** (2023-2024)  
@@ -112,9 +97,8 @@ I'm a Data Scientist and AI Engineer with a passion for leveraging AI/ML/DL and 
 - MLOps and ML Engineering
 - Quantitative Finance
 
-## 👥 Looking to Collaborate On
+## 👥 Open to Collaborations and Opportunities in
 
-I'm open to collaborations and opportunities in:
 - AI/ML Engineering
 - Data Science Projects
 - Quantitative Analysis and Research
@@ -124,6 +108,7 @@ I'm open to collaborations and opportunities in:
 - 📧 Email: [ftchekure@gmail.com](mailto:ftchekure@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/francistate](https://www.linkedin.com/in/francistate)
 - 🌐 Website: [francistate.github.io](https://francistate.github.io)
+
 
 ---
 
@@ -144,6 +129,4 @@ I'm open to collaborations and opportunities in:
 
 ---
 
-### 💡 Problem-Solving & Continuous Learning
 
-I enjoy tackling complex problems and am always seeking opportunities to apply AI and data science to meaningful, real-world challenges. My journey includes transitioning from electrical engineering to AI/ML and now expanding into quantitative finance.
