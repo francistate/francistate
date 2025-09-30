@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francis Tate
 
-### AI/ML Engineer | Data Scientist | Backend Software Engineer
+### AI/ML Engineer | Aspiring Data Engineer | BE Software Engineer
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -14,9 +14,8 @@
 
 ## 🚀 About Me
 
-I'm an **AI/ML Engineer, Data Scientist, and Backend Software Engineer** with a passion for leveraging cutting-edge AI/ML technologies and robust backend systems to solve real-world challenges in transformative fields like healthcare, education, and finance. My expertise spans from developing intelligent conversational AI systems to building scalable backend architectures.
+I'm an **AI/ML Engineer, Aspiring Data Engineer, and Backend Software Engineer** with a passion for leveraging Data and cutting-edge AI/ML technologies to solve real-world challenges.
 
-- 🔭 Currently working as an **AI Engineer** at Mindora Health, developing AI-driven mental health applications
 - 🎓 **MSc in Electrical & Computer Engineering** (AI/ML, Software Engineering) from Carnegie Mellon University Africa
 - 💡 Specializing in **Machine Learning Engineering**, **Backend Development**, and **Cloud Solutions**
 - 🏆 **AWS Certified Machine Learning Engineer** and **Solutions Architect**
@@ -50,7 +49,6 @@ I'm an **AI/ML Engineer, Data Scientist, and Backend Software Engineer** with a 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -67,7 +65,7 @@ I'm an **AI/ML Engineer, Data Scientist, and Backend Software Engineer** with a 
 ## 🎓 Education
 
 **Carnegie Mellon University Africa** (2023-2024)  
-*MSc. Electrical and Computer Engineering* (AI/ML, Software Engineering)
+*MSc. Electrical and Computer Engineering* (AI/ML)
 
 **National University of Science and Technology** (2014-2019)  
 *BEng. (Hons) Electronic Engineering*
@@ -128,7 +126,6 @@ I'm always interested in:
 - **AI/ML Engineering** projects and research
 - **Backend Development** opportunities  
 - **Data Science** initiatives
-- **Open Source** contributions
 
 **Ready to build something amazing together?**
 
