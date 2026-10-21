@@ -4,8 +4,6 @@
 
 **AI / ML Engineer · Data & Cloud**
 
-*Building AI systems that cope with messy input, and checking them properly before trusting them.*
-
 </div>
 
 ---
